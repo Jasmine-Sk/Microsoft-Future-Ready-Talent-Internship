@@ -18,21 +18,21 @@ Tourism can be considered as most favorite pass time when people get free time. 
 
 # Primary Azure Technology:
 Azure Bot Service, Web, Static Web Apps
+# My Website Link is this:
+https://jasmine-sk.github.io/Microsoft-Future-Ready-Talent-Internship/
 
 # Screenshots
-# HOME Page of MY Website
+
+# HOME Page of MY Website:
 ![Screenshot (223)](https://github.com/Jasmine-Sk/Microsoft-Future-Ready-Talent-Internship/assets/126958659/dc47d763-fa0b-4b78-b5be-830426a5b9b4)
 
 
-
-# About Section of my Travel Website
+# About Section of my Travel Website:
 ![Screenshot (224)](https://github.com/Jasmine-Sk/Microsoft-Future-Ready-Talent-Internship/assets/126958659/93580fa2-844b-4a8b-ba9f-667cd0359b28)
-
 
 
 # Services Section where you can book your Trip -
 ![Screenshot (226)](https://github.com/Jasmine-Sk/Microsoft-Future-Ready-Talent-Internship/assets/126958659/f5455bc4-5f04-418e-a004-12ae86c208f9)
-
 
 
 # Contact us for any quiries
